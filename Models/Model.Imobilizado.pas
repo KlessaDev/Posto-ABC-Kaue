@@ -3,7 +3,7 @@ unit Model.Imobilizado;
 interface
 
 uses
-  Aux.Types;
+  Auxs.Types;
 
 type
   TImobilizado<T: class> = class

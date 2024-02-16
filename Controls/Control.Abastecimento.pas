@@ -11,7 +11,7 @@ uses
   Model.Gasolina,
   Model.Diesel,
   Model.Combustivel,
-  Aux.Types,
+  Auxs.Types,
   DAO.Operacoes;
 
 type

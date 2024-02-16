@@ -5,7 +5,7 @@ interface
 uses
   Model.Combustivel,
   Model.Imposto,
-  Aux.Types;
+  Auxs.Types;
 
 type
   TDiesel = class(TCombustivel)

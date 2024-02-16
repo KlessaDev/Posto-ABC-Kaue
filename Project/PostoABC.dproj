@@ -112,7 +112,7 @@
         <DCCReference Include="..\Models\Model.Combustivel.pas"/>
         <DCCReference Include="..\Models\Model.Gasolina.pas"/>
         <DCCReference Include="..\Models\Model.Diesel.pas"/>
-        <DCCReference Include="..\Auxs\Aux.Types.pas"/>
+        <DCCReference Include="..\Auxs\Auxs.Types.pas"/>
         <DCCReference Include="..\Models\Model.Imposto.pas"/>
         <DCCReference Include="..\Models\Model.Tanque.pas"/>
         <DCCReference Include="..\Models\Model.Imobilizado.pas"/>
@@ -122,7 +122,7 @@
         <DCCReference Include="..\DAO\DAO.Operacoes.pas"/>
         <DCCReference Include="..\Interfaces\Interfaces.Operacao.pas"/>
         <DCCReference Include="..\DAO\DAO.Dados.pas"/>
-        <DCCReference Include="..\Auxs\Aux.Constants.pas"/>
+        <DCCReference Include="..\Auxs\Auxs.Constants.pas"/>
         <DCCReference Include="..\Reports\Report.Abastecimentos.pas">
             <Form>ReportAbastecimento</Form>
             <FormType>dfm</FormType>

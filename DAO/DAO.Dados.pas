@@ -15,8 +15,8 @@ uses
   Model.Tanque,
   DM.Principal,
   FireDAC.Comp.Client,
-  Aux.Constants,
-  Aux.Types;
+  Auxs.Constants,
+  Auxs.Types;
 
 type
   TDadosDAO = class
